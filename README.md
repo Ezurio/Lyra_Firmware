@@ -4,7 +4,7 @@
 
 [![Lyra-P & Lyra-S](/images/lyra_p_and_lyra_s_render.jpg)](https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/lyra-series-bluetooth-53-modules)
 [![Silabs](/images/silabs_logo.jpg)](https://www.silabs.com)
-[![Gecko SDK](/images/gecko_sdk_logo.jpg)](https://www.silabs.com/developers/gecko-software-development-kit)
+[![Gecko SDK](/images/gecko_sdk_logo.jpg)](https://github.com/SiliconLabs/gecko_sdk)
 [![Simplicity Studio](/images/simplicity_studio_logo.jpg)](https://www.silabs.com/developers/simplicity-studio)
 
 This is the firmware release page for the Ezurio [Lyra][Lyra product brief] product family.
@@ -91,4 +91,4 @@ This is used in conjunction with BT-SIG approved DTM test equipment. Communicati
 [Bluetooth Xpress migration guide]: <https://www.ezurio.com/documentation/user-guide-bluetooth-xpress-bgx-migration-lyra-modules>
 [Silabs BGAPI DTM documentation]: <https://www.silabs.com/documents/public/application-notes/an1267-bt-rf-phy-evaluation-using-dtm-sdk-v3x.pdf>
 [Silabs BGAPI description]: <https://docs.silabs.com/bluetooth/3.1/bgapi>
-[Lyra Releases Page]: <https://github.com/LairdCP/Lyra_Firmware/releases/tag/GA3.1>
+[Lyra Releases Page]: <https://github.com/Ezurio/Lyra_Firmware/releases/tag/GA3.1>
